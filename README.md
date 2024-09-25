@@ -68,7 +68,4 @@ I'm a passionate **Web Developer** skilled in building responsive web applicatio
   <a href="https://www.instagram.com/payalsahu1305/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
 </p>
