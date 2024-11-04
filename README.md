@@ -49,13 +49,13 @@ I'm a passionate **Web Developer** skilled in building responsive web applicatio
 
 ### GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalsahu1303&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=payalsahu1303&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalsahu1303&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=payalsahu1303&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsahu1303&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsahu1303&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
