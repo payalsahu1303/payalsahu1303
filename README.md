@@ -48,15 +48,14 @@ I'm a passionate **Web Developer** skilled in building responsive web applicatio
 ---
 
 ### GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalsahu1303&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=payalsahu1303&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsahu1303&theme=dark" alt="GitHub Streak" />
-</p>
+[![Github stats](https://github-readme-stats-hoothin.vercel.app/api?username=payalsahu1303&hide_border=true#gh-light-mode-only)](https://github.com/payalsahu1303#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats-hoothin.vercel.app/api/top-langs/?username=payalsahu1303&hide_border=true#gh-light-mode-only)](https://github.com/payalsahu1303#gh-light-mode-only)
+
+[![Github stats](https://github-readme-stats-hoothin.vercel.app/api?username=payalsahu1303&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/payalsahu1303#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-hoothin.vercel.app/api/top-langs/?username=payalsahu1303&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/payalsahu1303#gh-dark-mode-only)
+
+
 
 ---
 
