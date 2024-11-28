@@ -7,7 +7,7 @@ I'm a passionate **Web Developer** skilled in building responsive web applicatio
 ### About Me
 - 👨‍💻 All of my projects are available on my [Portfolio](https://payalsahu-portfolio.netlify.app/).
 - 📫 Reach me at **123payalsahu@gmail.com**.
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1ovJfUp8MwyvRY4RiF24dDe3tKTTE96RD/view?usp=sharing).
+
 
 ---
 
