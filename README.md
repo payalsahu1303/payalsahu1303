@@ -13,6 +13,9 @@
   <a href="mailto:123payalsahu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://payal-sahu-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -24,9 +27,9 @@ AI-powered trip planner that generates personalized itineraries.
 - **Tech:** React, Tailwind CSS, Firebase, Gemini API
 - 🌐 [Live Demo](https://your-demo-link.com)
 
-### [Flight Management System](https://github.com/payalsahu1303/your-repo)
-A full-stack app for flight booking and management.
-- **Tech:** Next.js, Node.js, MySQL, Appwrite
+### [StackDrive: Storage Management Web App](https://github.com/payalsahu1303/STACKDRIVE-STORAGE_MANAGEMENT_WEBAPP)
+A Google Drive-inspired web app with file upload, sharing, and trash management.
+- **Tech:** Next.js, Tailwind CSS, Appwrite, shadcn/ui
 - 🌐 [Live Demo](https://your-demo-link.com)
 
 ---
@@ -63,14 +66,19 @@ Other Tools: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for
 
 ---
 
-## 💡 Open Source Contributions
-- Contributor to [SomeProject](https://github.com/org/repo) — Added feature X
-- Contributor to [AnotherProject](https://github.com/org/repo) — Improved docs
-
----
-
 ## 📫 Contact
-- LinkedIn: [payalsahu13](https://www.linkedin.com/in/payalsahu13)
-- Instagram: [payalsahu1305](https://www.instagram.com/payalsahu1305)
-- Email: [123payalsahu@gmail.com](mailto:123payalsahu@gmail.com)
-- Portfolio: [my-portfolio.com](https://payal-sahu-portfolio.netlify.app/)
+
+<p>
+  <a href="https://www.linkedin.com/in/payalsahu13">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/payalsahu1305">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:123payalsahu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://payal-sahu-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
